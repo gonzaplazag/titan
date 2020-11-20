@@ -2,7 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../notas_de_python"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/Users/gonzaloplaza/miniconda3/envs/genv/bin/python"
+	}
 }
