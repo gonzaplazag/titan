@@ -2,5 +2,3 @@
 
 
 # proximo experimento
-
-- decision tree básico, con todas las variables que pueda
